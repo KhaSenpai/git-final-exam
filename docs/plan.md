@@ -28,6 +28,7 @@ Chủ Nhật: Tổng kết tuần, viết báo cáo ngắn về những gì đã
 
 
 
+<<<<<<< Updated upstream
 Đọc tài liệu về Git stash và thử nghiệm các lệnh liên quan.
 
 Tham gia một buổi hội thảo trực tuyến về lập trình web.
@@ -35,6 +36,11 @@ Tham gia một buổi hội thảo trực tuyến về lập trình web.
 Luyện tập debug code Python để cải thiện khả năng xử lý lỗi.
 
 Tìm hiểu về CI/CD và cách tích hợp Git vào quy trình phát triển.
+=======
+Xem lại các bài tập đã làm và cải thiện code nếu cần.
+
+Tìm hiểu về unit testing trong Python để nâng cao chất lượng mã.
+>>>>>>> Stashed changes
 
 
 

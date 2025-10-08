@@ -1,0 +1,3 @@
+Tính năng mới: Hệ thống thông báo nhắc nhở học tập.
+
+Tính năng này cho phép người dùng nhận thông báo hàng ngày về các nhiệm vụ học tập theo kế hoạch. Mỗi thông báo sẽ hiển thị chi tiết công việc cần làm, thời gian bắt đầu, và thời hạn hoàn thành. Hệ thống sẽ tích hợp với ứng dụng lịch trên điện thoại để tự động nhắc nhở. Tính năng này giúp người dùng quản lý thời gian hiệu quả hơn và không bỏ lỡ các mục tiêu học tập.

@@ -1,5 +1,3 @@
 Git là một công cụ mạnh mẽ để quản lý mã nguồn, giúp theo dõi thay đổi dễ dàng.
 Tôi thấy việc sử dụng branch giúp tổ chức công việc nhóm hiệu quả hơn.
 Các lệnh như commit và push rất tiện lợi để lưu trữ và chia sẻ code.
-Việc sử dụng git log giúp tôi hiểu rõ lịch sử thay đổi của dự án.
-Tính năng merge của Git hỗ trợ tích hợp code từ nhiều nguồn một cách trơn tru.

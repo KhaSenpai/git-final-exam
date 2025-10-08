@@ -28,5 +28,15 @@ Chủ Nhật: Tổng kết tuần, viết báo cáo ngắn về những gì đã
 
 
 
+Đọc tài liệu về Git stash và thử nghiệm các lệnh liên quan.
+
+Tham gia một buổi hội thảo trực tuyến về lập trình web.
+
+Luyện tập debug code Python để cải thiện khả năng xử lý lỗi.
+
+Tìm hiểu về CI/CD và cách tích hợp Git vào quy trình phát triển.
+
+
+
 Mục tiêu là hoàn thành ít nhất 80% kế hoạch và ghi chú lại các bài học kinh nghiệm.
 

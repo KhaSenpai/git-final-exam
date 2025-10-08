@@ -1,0 +1,11 @@
+Tôi tên là Trần Minh Kha_220576, hiện là sinh viên năm 4 chuyên ngành Công nghệ Thông tin tại Đại học DNC
+
+**Sở thích**:
+- Chơi bóng đá vào cuối tuần.
+- Đọc sách về khoa học và công nghệ.
+- Xem phim khoa học viễn tưởng.
+
+**Kỹ năng**:
+- Lập trình Python và JavaScript cơ bản.
+- Sử dụng Git để quản lý mã nguồn.
+- Thiết kế giao diện cơ bản với HTML/CSS.

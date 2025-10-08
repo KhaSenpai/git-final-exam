@@ -9,3 +9,9 @@ Tôi tên là Trần Minh Kha_220576, hiện là sinh viên năm 4 chuyên ngàn
 - Lập trình Python và JavaScript cơ bản.
 - Sử dụng Git để quản lý mã nguồn.
 - Thiết kế giao diện cơ bản với HTML/CSS.
+
+Kế hoạch học tập:
+Hoàn thành khóa học về ReactJS trong 3 tháng tới để phát triển kỹ năng lập trình front-end.
+Tìm hiểu về cơ sở dữ liệu và SQL để xây dựng các ứng dụng web hoàn chỉnh.
+Tham gia các dự án mã nguồn mở trên GitHub để tích lũy kinh nghiệm thực tế.
+Cải thiện khả năng viết code sạch và tối ưu hóa hiệu suất chương trình.
